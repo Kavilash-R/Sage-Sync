@@ -9,11 +9,6 @@ function App() {
     <Main />
 
     
-    
-    
-    
-    
-    
     </>
     );
 }
